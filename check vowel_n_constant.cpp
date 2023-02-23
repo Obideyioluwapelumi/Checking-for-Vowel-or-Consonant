@@ -5,7 +5,7 @@
 
 // This program assumes that the user will always enter an alphabet.
 
-// Program to Check Vowel or a Consonant Manually
+// C++ Program to Check Vowel or a Consonant Manually
 
 
 #include <iostream>
